@@ -28,5 +28,6 @@ The **Recipe App** is a frontend web project designed to display various cooking
 * 🌐 **API Integration** to fetch dynamic recipe data
 * 🔍 Optional: [Spoonacular API](https://spoonacular.com/food-api) for real recipe data
 
-<img width="1547" height="858" alt="Screenshot 2025-07-31 221752" src="https://github.com/user-attachments/assets/fbc9c145-f49e-4f30-9d00-982f7476fe34" />
+<img width="1714" height="764" alt="Screenshot 2025-07-31 222029" src="https://github.com/user-attachments/assets/b5e231f9-6375-471c-b5a0-e4a2b435c862" />
+
 
